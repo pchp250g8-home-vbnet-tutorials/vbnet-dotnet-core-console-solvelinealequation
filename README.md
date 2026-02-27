@@ -1,1 +1,2 @@
-SolveLinealEquation. VBNet Tutorials. DotNet Core Platform. Console Application. Input/Output. Algorithms. 
+SolveLinealEquation. VBNet Tutorials. DotNet Core Platform. Simple Input/Output. Algorithms. Console Application. 
+SolveLinealEquation. Занятия по VB.Net. Платформа DotNet Core. Простой Ввод/Вывод. Алгоритмы. Консольное приложение.
